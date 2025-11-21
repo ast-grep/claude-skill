@@ -1,0 +1,8 @@
+{
+  "name": "ast-grep",
+  "version": "1.0.0",
+  "description": "Structural code search using Abstract Syntax Tree (AST) patterns. Search codebases based on code structure rather than text matching.",
+  "author": "dylan",
+  "repository": "https://github.com/dylan/claude-skills-marketplace",
+  "homepage": "https://ast-grep.github.io/"
+}
