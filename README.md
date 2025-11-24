@@ -38,10 +38,10 @@ ast-grep --version
 
 ### Option 1: Install via Marketplace (Recommended)
 
-1. **Add the marketplace** to your Claude Code (replace `<owner>/<repo>` with the actual GitHub repository):
+1. **Add the marketplace** to your Claude Code:
 
 ```bash
-/plugin marketplace add <owner>/<repo>
+/plugin marketplace add ast-grep/claude-skill
 ```
 
 2. **Install the ast-grep plugin**:
@@ -60,7 +60,7 @@ If you're developing or testing locally:
 
 ```bash
 # Clone the repository
-git clone <repository-url> /path/to/local-marketplace
+git clone https://github.com/ast-grep/claude-skill.git /path/to/local-marketplace
 
 # Add as local marketplace
 /plugin marketplace add /path/to/local-marketplace

@@ -5,7 +5,9 @@
   },
   "metadata": {
     "description": "A marketplace for Claude Code skills including ast-grep structural code search",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "repository": "https://github.com/ast-grep/claude-skill",
+    "homepage": "https://github.com/ast-grep/claude-skill"
   },
   "plugins": [
     {
