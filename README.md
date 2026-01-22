@@ -42,7 +42,7 @@ ast-grep --version
 npx skills add ast-grep/agent-skill
 ```
 
-### Option 1: Install via Marketplace 
+### Option 2: Install via Marketplace 
 
 1. **Add the marketplace** to your Claude Code:
 
@@ -60,7 +60,7 @@ npx skills add ast-grep/agent-skill
 
 4. **Verify installation**: Use `/help` to see if ast-grep skill is available
 
-### Option 2: Install Locally for Development
+### Option 3: Install Locally for Development
 
 If you're developing or testing locally:
 
