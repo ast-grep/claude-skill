@@ -1,4 +1,4 @@
-# ast-grep Plugin Marketplace for Claude Code
+# ast-grep Plugin Marketplace for AI Agents
 
 A Claude Code plugin marketplace containing the ast-grep skill for powerful structural code search using Abstract Syntax Tree (AST) patterns. Search your codebase based on code structure rather than just text matching.
 
@@ -36,12 +36,18 @@ ast-grep --version
 
 ## Installation
 
-### Option 1: Install via Marketplace (Recommended)
+### Option 1: Install via skills.sh (Recommended)
+
+```
+npx skills add ast-grep/agent-skill
+```
+
+### Option 1: Install via Marketplace 
 
 1. **Add the marketplace** to your Claude Code:
 
 ```bash
-/plugin marketplace add ast-grep/claude-skill
+/plugin marketplace add ast-grep/agent-skill
 ```
 
 2. **Install the ast-grep plugin**:
